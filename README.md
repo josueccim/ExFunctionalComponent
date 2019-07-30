@@ -1,2 +1,0 @@
-# ExFunctionalComponent
-Created with CodeSandbox
